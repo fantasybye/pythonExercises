@@ -1,0 +1,1 @@
+@py.exe D:\Learning\Python\downloadImages\downloadImages.py %*

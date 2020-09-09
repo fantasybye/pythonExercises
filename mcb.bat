@@ -1,0 +1,1 @@
+@pyw.exe D:\Learning\Python\multicclipboard\mcb.pyw %*
